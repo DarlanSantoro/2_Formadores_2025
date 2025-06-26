@@ -2,4 +2,10 @@ body {
 
     background-color: black;
     color: white;
+    margin: 0px;
+}
+
+header{
+    border-bottom: solid 4px rgb(4, 122, 228);
+
 }
