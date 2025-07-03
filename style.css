@@ -18,3 +18,15 @@ p{
     font-size: 20px;
     background-color: rgb(117, 143 ,237), green, blue);
 }
+
+section {
+backgroundb-color: rgb(184, 156, 213);
+padding-bottom: 80px;
+padding-top: 80px;
+display:flex;
+justify-content: center;
+}
+
+.chamada-texto{ 
+    margin-right: 5%;
+}
